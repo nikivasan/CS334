@@ -16,7 +16,8 @@ This repo holds the code I wrote for my assignments and final project in Emory's
 The homeworks are designed to test our ability to implement certain algorithms by hand, as well as utilize existing libraries. The final project 
 allows us to apply what we have learned in this course to a real-world task. All code will pushed here as it is completed. **The homework (hw<num>-nhvasan) 
 topics are as follows:**
-1. hw1-nhvasan: KNN/Feature Pre-processing
+1. hw1-nhvasan: KNN (from scratch) + Feature Pre-processing
 2. hw2-nhvasan: Decision Tree Implementation (from scratch)
 3. hw3-nhvasan: Closed Form Linear Regression + Stochastic Gradient Descent Linear Regression (from scratch)
+4. hw4-nhvasan: Perceptron (from scratch) + hyperparameter tuning, Naive Bayes (sklearn), Logistic Regression (sklearn)
 
