@@ -20,4 +20,5 @@ topics are as follows:**
 2. hw2-nhvasan: Decision Tree Implementation (from scratch)
 3. hw3-nhvasan: Closed Form Linear Regression + Stochastic Gradient Descent Linear Regression (from scratch)
 4. hw4-nhvasan: Perceptron (from scratch) + hyperparameter tuning, Naive Bayes (sklearn), Logistic Regression (sklearn)
+5. hw5-nhvasan: Random Forest (from scratch) + Principal Component Analysis (sklearn)
 
